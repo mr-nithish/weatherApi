@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;800&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    height: 80vh;
+    font-family: 'Cinzel', serif;
+    background: linear-gradient(#0CCDA3,#C1FCD3);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.head h1{
+    text-align: center;
+    padding-top: 80px;
+}
+
+.data h2{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#p1{
+    margin-top: 30px;
+}
+
+#city{
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 180px;
+    font-family: 'Cinzel', serif;
+    border: 2px solid black;
+}
+
+#submit{
+    font-family: 'Cinzel', serif;
+    height: 30px;
+    width: 70px;
+    margin-left: 20px;
+    border: 2px solid black;
+}
+
+.container{
+    background-image: url(./asserts/pastel-ombre-background-pink-purple_53876-120750.webp);
+    height: 50vh;
+    width: 30vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 200px;
+    margin-left: 700px;
+}
